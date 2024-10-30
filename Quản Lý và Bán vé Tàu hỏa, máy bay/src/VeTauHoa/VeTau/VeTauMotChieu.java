@@ -2,8 +2,8 @@ package VeTauHoa.VeTau;
 
 import java.time.LocalDate;
 
-import VeTauHoa.DinhNghia.LoaiToaTau;
-import VeTauHoa.DinhNghia.LoaiVe;
+import DinhNghia.LoaiToaTau;
+import DinhNghia.LoaiVe;
 
 public class VeTauMotChieu extends VeTau {
     private double giaTien;

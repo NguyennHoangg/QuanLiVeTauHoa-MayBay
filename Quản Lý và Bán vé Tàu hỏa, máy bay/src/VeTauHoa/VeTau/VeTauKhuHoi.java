@@ -1,7 +1,7 @@
 package VeTauHoa.VeTau;
 import java.time.LocalDate;
 
-import VeTauHoa.DinhNghia.*;
+import DinhNghia.*;
 
 
 public class VeTauKhuHoi extends VeTau{
